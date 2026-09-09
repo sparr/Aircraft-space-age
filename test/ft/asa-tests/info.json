@@ -1,0 +1,13 @@
+{
+  "name": "asa-tests",
+  "version": "0.0.1",
+  "title": "Aircraft Space Age test marker",
+  "author": "Sparr",
+  "contact": "sparr0@gmail.com",
+  "factorio_version": "2.1",
+  "description": "Marks a game as running the Aircraft Space Age test suite. Holds no prototypes: it exists so control.lua can tell a test run from a player's game, since .gitattributes keeps test/ out of the release archive and the fixtures would not be there to require. Never published to the mod portal.",
+  "dependencies": [
+    "base",
+    "Aircraft-space-age"
+  ]
+}
