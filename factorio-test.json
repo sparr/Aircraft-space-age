@@ -1,0 +1,7 @@
+{
+  "modPath": ".",
+  "mods": ["asa-tests"],
+  "test": {
+    "game_speed": 100
+  }
+}

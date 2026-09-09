@@ -29,3 +29,8 @@ docs export-ignore
 *.bat export-ignore
 *.ps1 export-ignore
 *.sh export-ignore
+
+# the test suite is not part of a release
+test export-ignore
+factorio-test.json export-ignore
+package.json export-ignore
