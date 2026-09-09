@@ -1,0 +1,10 @@
+{
+  "name": "asa-int",
+  "version": "0.0.1",
+  "title": "Aircraft Space Age integration harness",
+  "author": "Sparr",
+  "contact": "sparr0@gmail.com",
+  "factorio_version": "2.1",
+  "description": "Scenario that drives a vehicle with real keyboard and mouse input and reports what happened to it. Never published to the mod portal.",
+  "dependencies": ["base", "Aircraft-space-age"]
+}
